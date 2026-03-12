@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Milk,Dairy,2.5
+2,Bread,Bakery,1.8
+3,Eggs,Dairy,3.0
+4,Rice,Grains,5.5
+5,Apples,Fruits,4.0
+6,Bananas,Fruits,2.2
+7,Tomatoes,Vegetables,2.7
+8,Potatoes,Vegetables,1.9
+9,Chips,Snacks,1.5
+10,Chocolate,Snacks,2.8
